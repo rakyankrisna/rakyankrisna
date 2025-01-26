@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakyankrisna&label=Profile%20views&color=0e75b6&style=flat" alt="rakyankrisna" /> </p>
 
-- 🔭 I’m currently working on [PT Sevima](https://sevima.com/)
+- 🔭 I’m currently working on [Accenture](https://accenture.com/)
 
 - 🌱 I’m currently learning **node.js and react**
 
 - 👯 I’m looking to collaborate on [Virtual Music Arena (Vimana)](https://vimana.vercel.app/)
 
-- 🤝 I’m [Bangkit Academy 2023 - Cloud Computing Graduate](https://grow.google/intl/id_id/bangkit/)
+- 🤝 I’m a software transformation enthusiast
 
 - 👨‍💻 All of my projects are available at [https://intip.in/portofoliorakyan](https://intip.in/portofoliorakyan)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rakyankrisna](https://www.linkedin.com/in/rakyankrisna)
 
-- 💬 Ask me about **project management, scrum, and agile development**
+- 💬 Ask me about **IT project management, scrum, and agile development**
 
 - 📫 How to reach me **rakyankrisna@gmail.com**
 
