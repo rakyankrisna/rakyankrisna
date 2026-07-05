@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakyan Krisna Dewangga</h1>
-<h3 align="center"><i>soft boy.</i></h3>
+<h3 align="center"><i>aka. <u>airwangga.</u></i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakyankrisna&label=Profile%20views&color=0e75b6&style=flat" alt="rakyankrisna" /> </p>
 
